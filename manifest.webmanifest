@@ -1,0 +1,9 @@
+{
+  "name":"Ahorros Manu Villa",
+  "short_name":"Manu Villa",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#fff4fa",
+  "theme_color":"#d85b9a"
+}
